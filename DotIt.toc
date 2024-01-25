@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: DotIt
+## Notes: Automates dotting and Shadow Bolt casting.
+## Author: NoSmxke
+## Version: 1.0
+## SavedVariables: DotIt_Settings
+
+DotIt.lua
